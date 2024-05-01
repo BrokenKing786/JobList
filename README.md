@@ -10,7 +10,7 @@ Currently it has two apis only
 <!-- Add copy button and code block -->
 <div>
     <!-- Copy button -->
-    <button class="btn" data-clipboard-target="#code-snippet">Copy</button>
+    <button class="btn" data-clipboard-target="#code-snippet"></button>
 </div>
 
 #### Payload for post api for adding new job Post is below:
