@@ -2,7 +2,7 @@
 
 Currently it has two apis only
 1) One post api - using which you can create job lIsting information
-2) one get api thta fetches all job listing data.
+2) one get api that fetches all job listing data.
 
 `http://localhost:8080/posts (Get api)`
 `http://localhost:8080/post  (Post api)`
